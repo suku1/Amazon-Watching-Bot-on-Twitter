@@ -14,6 +14,10 @@ $ pip install requests
 ```bash
 $ pip install bs4
 ```
+ - requests_oauthlib
+```bash
+$ pip install requests_oauthlib
+```
 
 ## Usage  
 APIkey.jsonにTwitterAPIのkeyを設定すれば動きます.  
