@@ -14,6 +14,10 @@ $ pip install requests
 ```bash
 $ pip install bs4
 ```
+ - lxml
+```bash
+$ pip install lxml
+```
  - requests_oauthlib
 ```bash
 $ pip install requests_oauthlib
